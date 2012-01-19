@@ -1,0 +1,9 @@
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\bin\Debug\MnistConverter.exe
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\bin\Debug\MnistConverter.pdb
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\MnistConverter.Form1.resources
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\MnistConverter.Properties.Resources.resources
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\MnistConverter.exe
+C:\Users\arekbee\Desktop\pro\MnistConverter\MnistConverter\obj\x86\Debug\MnistConverter.pdb
